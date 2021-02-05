@@ -1,12 +1,12 @@
 # MoonRangers
 
-## About Us
+## ABOUT US
 
 This is the best team in the history of the best teams!
 
-## Miembros
+## TEAM MEMBERS
 
-| INTEGRANTE          | GITHUB                          | LINKEDIN              | INSTAGRAM                                                  | PORTAFOLIO                                               |
+| NAME                | GITHUB                          | LINKEDIN              | INSTAGRAM                                                  | PORTAFOLIO                                               |
 | ------------------- | ------------------------------- | --------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
 | Joana Faro          | [FaroJoana](http:....)          | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Karlo Soberón       | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
@@ -18,9 +18,9 @@ This is the best team in the history of the best teams!
 | Santiago J Martinez | [SantiagoMartinez25](http:....) | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Juan Castro         | [juancastro02](http:....)       | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Lianel Artiles      | [larts85](http:....)            | [imadev](http:....)   | [masajelasmanos](https://www.instagram.com/masajelasmanos) | [lianelartiles](https://larts85.github.io/lianelartiles) |
-| **INTEGRANTE**      | **GITHUB**                      | **LINKEDIN**          | **INSTAGRAM**                                              | **PORTAFOLIO**                                           |
+| **NAME**            | **GITHUB**                      | **LINKEDIN**          | **INSTAGRAM**                                              | **PORTAFOLIO**                                           |
 
-## Skills
+## SKILLS
 
 | **Frontend**  | **Backend** |
 | ------------- | ----------- |
@@ -35,7 +35,7 @@ This is the best team in the history of the best teams!
 | React-Redux   | Firebase    |
 | React-Routing |
 
-## Proyectos
+## PROJECTS
 
 - **MoonBank**
 
