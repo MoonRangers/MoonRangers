@@ -1,6 +1,6 @@
 # MoonRangers
 
-## Conocenos
+## About Us
 
 This is the best team in the history of the best teams!
 
