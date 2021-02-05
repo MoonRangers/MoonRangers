@@ -9,7 +9,7 @@ This is the best team in the history of the best teams!
 | INTEGRANTE          | GITHUB                          | LINKEDIN              | INSTAGRAM                                                  | PORTAFOLIO                                               |
 | ------------------- | ------------------------------- | --------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
 | Joana Faro          | [FaroJoana](http:....)          | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
-| Karlo Soberón       | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
+| Karlo Soberón       | [karlofsd](https://github.com/karlofsd)             | [karlof-soberon](https://www.linkedin.com/in/karlof-soberon) | [sober.kf](https://www.instagram.com/sober.kf)                                     | [karlofsd](https://karlofsd.netlify.com)                                   |
 | Andrés Sanchez      | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Hernan Rojas        | [HernanSsj](http:....)          | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Agustin Collante    | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
@@ -27,13 +27,13 @@ This is the best team in the history of the best teams!
 | HTML          | NodeJs      |
 | LESS          | Express     |
 | CSS           | SQL         |
-| JSX           | Mongo       |
-| React         | Sequelize   |
-| Native        | SQLite      |
-| Expo          | Postgres    |
+| JSX           | MongoDB     |
+| React Native  | Sequelize   |
+| Javascript    | SQLite      |
+| Expo          | PostgreSQL  |
 | React Js      | Mongoose    |
 | React-Redux   | Firebase    |
-| React-Routing |
+| React-Routing | Typescript  |
 
 ## Proyectos
 
